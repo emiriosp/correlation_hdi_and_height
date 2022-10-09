@@ -1,4 +1,4 @@
-Entity,Code,Year,Human Development Index (UNDP),Mean male height (cm),Continent_edited
+entity,code,year,HDI_(UNDP),mean_male_height_(cm),continent_edited
 Abkhazia,OWID_ABK,2015,,,Asia
 Afghanistan,AFG,1980,0.228,165.3812914,Asia
 Afghanistan,AFG,1985,0.273,165.3971222,Asia
